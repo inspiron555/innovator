@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bishula
+- 👋 Hi
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning CSS,javascript and C.
 
